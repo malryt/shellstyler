@@ -1,4 +1,7 @@
-<<<<<<< HEAD
+=======
+# shellstyler
+An interactive web application to customize your shell (bash/zsh) while automating syntax and formatting.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,7 +72,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# shellstyler
-An interactive web application to customize your shell (bash/zsh) while automating syntax and formatting.
->>>>>>> ae0b8ecb0e9059d28fb741d760ad4bb78668923e
+
