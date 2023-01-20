@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/shellstyler/static/css/main.073c9b0a.css",
+    "main.js": "/shellstyler/static/js/main.3dfcee8e.js",
+    "static/js/787.d1f643f5.chunk.js": "/shellstyler/static/js/787.d1f643f5.chunk.js",
+    "static/media/logo.svg": "/shellstyler/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/shellstyler/index.html",
+    "main.073c9b0a.css.map": "/shellstyler/static/css/main.073c9b0a.css.map",
+    "main.3dfcee8e.js.map": "/shellstyler/static/js/main.3dfcee8e.js.map",
+    "787.d1f643f5.chunk.js.map": "/shellstyler/static/js/787.d1f643f5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.3dfcee8e.js"
+  ]
+}
